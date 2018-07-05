@@ -1,0 +1,61 @@
+#loge{
+    position: absolute;
+    left: 350px;
+    top:20px;
+}
+#background{
+    position: absolute;
+    top:100px;
+}
+#toble{
+    background-color: white;
+    width: 310px;
+    height: 340px;
+    position: absolute;
+    left: 870px;
+    top:130px;
+}
+#landing{
+    border-bottom: 1px solid black;
+}
+#landing {
+    height: 50px;;
+    color: red;
+    /*position: absolute;*/
+    /*top: 15px;*/
+    /*left: 145px;*/
+    text-align: center;
+
+}
+#landing strong{
+    position: relative;
+    top: 15px;
+}
+#user{
+    width: 240px;
+    height: 30px;
+    position: absolute;
+    top: 80px;
+    left: 30px;
+}
+#password{
+    width: 240px;
+    height: 30px;
+    position: absolute;
+    top: 140px;
+    left: 30px;
+}
+#min span,a{
+    font-size: 10px;
+    color: rgb(51,51,51);
+    position: absolute;
+    top: 200px;
+}
+#min span{
+    position: absolute;
+    left: 35px;
+}
+#min a{
+    position: absolute;
+    left: 234px;
+}
